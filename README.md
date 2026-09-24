@@ -1,3 +1,5 @@
+<img width="1280" height="2856" alt="Screenshot_20260924_122545" src="https://github.com/user-attachments/assets/b2d1c6a0-d833-4807-bc9e-a2c6530d7fc7" />
+<img width="1280" height="2856" alt="Screenshot_20260924_122812" src="https://github.com/user-attachments/assets/6d6bccfd-b9e2-4f0b-b3c5-5a358ad8ba33" />
 # ss20
 
 A new Flutter project.
